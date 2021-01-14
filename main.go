@@ -30,7 +30,7 @@ const (
 	// Needs to update
 	//PROJECT_ID = "around-xxx"
 	//BT_INSTANCE = "around-post"
-	ES_URL = "http://35.222.111.148:9200"
+	ES_URL = "http://34.70.32.197:9200"
 )
 
 func main() {
